@@ -1,18 +1,4 @@
-"""      turtle-example-suite:
 
-          tdemo_wikipedia3.py
-
-This example is
-inspired by the Wikipedia article on turtle
-graphics. (See example wikipedia1 for URLs)
-
-First we create (ne-1) (i.e. 35 in this
-example) copies of our first turtle p.
-Then we let them perform their steps in
-parallel.
-
-Followed by a complete undo().
-"""
 from turtle import Screen, Turtle, mainloop
 from time import perf_counter as clock, sleep
 
