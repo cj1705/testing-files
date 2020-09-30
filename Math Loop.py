@@ -1,4 +1,5 @@
-# [ ] review the code, run, fix the Logic error
+
+
 count =10
 
 # loop 5 times
